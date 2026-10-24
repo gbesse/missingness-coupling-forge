@@ -71,4 +71,4 @@ Pruebas de dominio, casos límite e interfaz FR/EN/ES. CI prueba Python 3.11/3.1
 
 ## Sources / Fuentes
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701793/
+- https://doi.org/10.1093/biomet/63.3.581
