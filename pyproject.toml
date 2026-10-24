@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "missingness-coupling-forge"
+version = "0.1.0a1"
+description = "FR: Générer des valeurs manquantes selon un mécanisme déclaré et rejouable | EN: Generate missing values under a declared replayable mechanism | ES: Generar valores ausentes según un mecanismo declarado y reproducible"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+missingness-coupling-forge = "missingness_coupling_forge.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["missingness_coupling_forge*"]

@@ -1,0 +1,24 @@
+{
+  "seed": 9,
+  "rows": [
+    {
+      "id": "a",
+      "risk": -2,
+      "value": 10
+    },
+    {
+      "id": "b",
+      "risk": 2,
+      "value": 20
+    }
+  ],
+  "rules": {
+    "value": {
+      "mechanism": "mar",
+      "intercept": 0,
+      "coefficients": {
+        "risk": 3
+      }
+    }
+  }
+}

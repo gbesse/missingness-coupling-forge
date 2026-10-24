@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Générer des valeurs manquantes selon un mécanisme déclaré et rejouable', 'en': 'Generate missing values under a declared replayable mechanism', 'es': 'Generar valores ausentes según un mecanismo declarado y reproducible'}
